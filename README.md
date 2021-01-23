@@ -1,4 +1,4 @@
-# Installation of ArchLinux on Raspberry Pi 4B
+# Installation of ArchLinux on Raspberry Pi 4B---
 These are instructions on how I installed Arch Linux on my Raspberry Pi.
 This documentation primarily serves me to remember all the steps I took in case I want/need to run through the installation process again at a later date, but may help others as well.
 
